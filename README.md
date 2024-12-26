@@ -1,0 +1,1 @@
+# vosk-ollama-emotion-speech-assistant
