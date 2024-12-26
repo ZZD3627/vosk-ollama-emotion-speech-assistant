@@ -103,4 +103,6 @@ except Exception as e:
 ```shell
 streamlit run app.py
 ```
+###### 效果演示
+[效果演示](https://www.bilibili.com/video/BV1MmCBYqEF4/)
 
