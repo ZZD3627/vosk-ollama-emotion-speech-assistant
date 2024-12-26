@@ -1,10 +1,13 @@
 # vosk-ollama-emotion-speech-assistant
 
 [English](https://github.com/ZZD3627/vosk-ollama-emotion-speech-assistant/blob/main/README.md)|[中文简体](https://github.com/ZZD3627/vosk-ollama-emotion-speech-assistant/edit/main/README_CN.md)
-1.vosk进行语音识别
-2.ollama3大模型进行交互
-3.gTTS实现语音的播放
-4.streamlit实现网页访问
+
+###### 特点
+
+- vosk进行语音识别
+- ollama3大模型进行交互
+- gTTS实现语音的播放
+- streamlit实现网页访问
 
 此代码是中文版本的语音智能助手，会识别用户所说的话，并实现语音交互
 
