@@ -2,7 +2,7 @@
 
 [English](https://github.com/ZZD3627/vosk-ollama-emotion-speech-assistant/blob/main/README.md)|[中文简体](https://github.com/ZZD3627/vosk-ollama-emotion-speech-assistant/edit/main/README_CN.md)
 
-###### 特点
+###### peculiarity
 
 - VOSK for speech recognition
 - ollama3 large model to interact
